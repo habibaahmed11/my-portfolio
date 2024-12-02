@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-import Navbar from './Navbar';
 import Profile from './Profile';
 import Skills from './Skills';
 import Education from './Education';
