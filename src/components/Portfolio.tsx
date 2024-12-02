@@ -35,7 +35,7 @@ export default function Portfolio() {
                 <div className="md:col-span-2 space-y-8">
 
                     <div id="about">
-                        <Navbar />
+                        {/* <Navbar /> */}
                         <About />
                     </div>
 
