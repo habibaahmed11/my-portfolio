@@ -35,7 +35,7 @@ export default function Awards() {
                         <br></br>
                         <h3 className="text-xl font-semibold mb-2">500+ Problems Solved</h3>
                         <p className="text-center">
-                            <a href="https://codeforces.com/profile/YourUsername"
+                            <a href="https://codeforces.com/profile/habibo"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-green-600 hover:underline">Habibo </a>
