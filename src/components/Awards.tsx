@@ -38,8 +38,8 @@ export default function Awards() {
                             <a href="https://codeforces.com/profile/YourUsername"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="text-green-600 hover:underline">Habibo</a>
-                            Successfully solved over 500 coding problems across various platforms.</p>
+                                className="text-green-600 hover:underline">Habibo </a>
+                            Successfully solved over 500 coding problems across various platforms, and rated pupil</p>
                     </div>
                     <div className="flex flex-col items-center">
                         <Image
