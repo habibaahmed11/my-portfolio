@@ -27,10 +27,10 @@ export default function Extracurriculars() {
                             </p>
                             <div className="w-1/2 flex justify-center p-4 group">
                                 <Image
-                                    src="/spaceapps.JPG"
+                                    src="/nasa.JPG"
                                     width={300}
                                     height={150}
-                                    alt="ecpc team"
+                                    alt="space apps team"
                                     className="rounded-lg object-cover transition-transform duration-300 ease-in-out group-hover:scale-125"
                                 />
                             </div>

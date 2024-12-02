@@ -34,7 +34,12 @@ export default function Awards() {
                         />
                         <br></br>
                         <h3 className="text-xl font-semibold mb-2">500+ Problems Solved</h3>
-                        <p className="text-center">Successfully solved over 500 coding problems across various platforms.</p>
+                        <p className="text-center">
+                            <a href="https://codeforces.com/profile/YourUsername"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-green-600 hover:underline">Habibo</a>
+                            Successfully solved over 500 coding problems across various platforms.</p>
                     </div>
                     <div className="flex flex-col items-center">
                         <Image
