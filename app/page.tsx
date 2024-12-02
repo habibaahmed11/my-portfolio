@@ -1,8 +1,8 @@
-import CreativePortfolio  from "@/src/components/CreativeProtfolio";
+import Portfolio from "@/src/components/Portfolio";
 export default function Home() {
   return (
     <main>
-      <CreativePortfolio />
+      <Portfolio />
     </main>
   );
 }

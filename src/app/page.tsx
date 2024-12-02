@@ -1,4 +1,4 @@
-import CreativePortfolio from '../components/CreativeProtfolio'
+import CreativePortfolio from '../components/Portfolio'
 
 export default function Home() {
     return (
