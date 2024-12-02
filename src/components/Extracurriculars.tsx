@@ -27,7 +27,7 @@ export default function Extracurriculars() {
                             </p>
                             <div className="w-1/2 flex justify-center p-4 group">
                                 <Image
-                                    src="/nasa.JPG"
+                                    src="/nasa.jpg"
                                     width={300}
                                     height={150}
                                     alt="space apps team"
